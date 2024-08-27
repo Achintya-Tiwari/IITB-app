@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "808429147644",
+    "firebase_url": "https://data-iitb-default-rtdb.firebaseio.com",
+    "project_id": "data-iitb",
+    "storage_bucket": "data-iitb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808429147644:android:15f782c43796eae55c4e79",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBELD2ld8lE-SYU0RiRHp9hAPzJClWEHZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808429147644:android:e172b2b1bfb79e9e5c4e79",
+        "android_client_info": {
+          "package_name": "combined.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBELD2ld8lE-SYU0RiRHp9hAPzJClWEHZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808429147644:android:c2f981592cceae135c4e79",
+        "android_client_info": {
+          "package_name": "tatva.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBELD2ld8lE-SYU0RiRHp9hAPzJClWEHZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
