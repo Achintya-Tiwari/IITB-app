@@ -1,4 +1,4 @@
-name: firstapp
+name: demo
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -19,7 +19,7 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 version: 1.0.0+1
 
 environment:
-  sdk: '>=3.4.3 <4.0.0'
+  sdk: ^3.6.1
 
 # Dependencies specify other packages that your package needs in order to work.
 # To automatically upgrade your package dependencies to the latest versions
@@ -31,17 +31,15 @@ dependencies:
   flutter:
     sdk: flutter
 
-
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
-  cupertino_icons: ^1.0.6
-  fl_chart: ^0.68.0
-  http: ^1.2.1
-  go_router: ^5.2.0
-  google_maps_flutter: ^2.7.0
-  firebase_core: ^3.2.0
-  firebase_database: ^11.0.3
-  syncfusion_flutter_charts: ^26.1.42
+  cupertino_icons: ^1.0.8
+  fl_chart: ^0.70.1
+  http: ^1.2.2
+  go_router: ^14.6.3
+  firebase_core: ^3.10.0
+  firebase_database: ^11.3.0
+  syncfusion_flutter_charts: ^28.1.39
   async_builder: ^1.3.1+1
 
 dev_dependencies:
@@ -53,19 +51,18 @@ dev_dependencies:
   # activated in the `analysis_options.yaml` file located at the root of your
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
-  flutter_lints: ^4.0.0
-  flutter_svg: ^2.0.10+1
-  flutter_launcher_icons: ^0.13.1
+  flutter_lints: ^5.0.0
+  flutter_svg: ^2.0.17
+  flutter_launcher_icons: ^0.14.2
 
 flutter_launcher_icons:
-  android: "launcher_icon"
+  android: "launcher_icons"
   ios: true
   image_path: "assets/icons/icon-Photoroom.jpg"
 
+
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
-
-# The following section is specific to Flutter packages.
 flutter:
 
   # The following line ensures that the Material Icons font is

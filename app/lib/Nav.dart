@@ -1,8 +1,8 @@
 // ignore: file_names
-import 'package:firstapp/pages/Data.dart';
-import 'package:firstapp/pages/metal.dart';
-import 'package:firstapp/pages/oil.dart';
-import 'package:firstapp/pages/solar.dart';
+import 'pages/Data.dart';
+import 'pages/metal.dart';
+import 'pages/oil.dart';
+import 'pages/solar.dart';
 
 import 'pages/home.dart';
 import 'package:flutter/material.dart';
